@@ -1,4 +1,4 @@
-# mevnex
+# Vue Basics MEVN
 
 ## Project setup
 ```
